@@ -42,9 +42,10 @@ To get a local copy up and running,follow these simple steps
 
 
 👤 **Author2**
--  GitHub : 
-- Twitter: 
-- LinkedIn: 
+-  GitHub : [@Smart1-hub](https://github.com/Smart1-hub)
+- Twitter: [@ademola_adebayo](https://twitter.com/ademola_adebayo) 
+- LinkedIn: [Ademola Adebayo](https://www.linkedin.com/in/ademola-adebayo-81051578/)
+
 
 ## 🤝 Contributing
 
