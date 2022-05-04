@@ -4,14 +4,6 @@ const title = document.querySelector('.title');
 const author = document.querySelector('.author');
 const addBtn = document.querySelector('.add_btn');
 
-let books = [];
-books = JSON.parse(localStorage.getItem('Awesome books')) !== null ? (books = JSON.parse(localStorage.getItem('books'))) : [];
-
-let listBooks;
-const getLocalData = () => {
-  listBooks = JSON.parse(localStorage.getItem('books'));
-};
-
 // refactor to use JavaScript classes
 
 class Library {
