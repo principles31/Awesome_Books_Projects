@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Lato&family=Poppins:wght@200;400;700&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -13,9 +14,11 @@
   margin-bottom: 50px;
   font-family: 'Poppins', sans-serif;
 }
+
 .title1 {
   font-weight: 600;
 }
+
 .book_list {
   width: 400px;
   display: flex;
@@ -25,11 +28,13 @@
   border: 2px solid;
   padding: 10px;
 }
+
 .add-books {
   display: flex;
   justify-content: space-between;
   font-weight: 500;
 }
+
 .remove-btn {
   font-weight: bolder;
   font-size: 18px;
@@ -39,19 +44,23 @@
   border: 2px solid;
   padding: 5px;
 }
-hr {
+
+/* hr {
   border: 2px solid;
   margin: 20px;
-}
+} */
+
 .title2 {
   margin: 15px;
 }
+
 input {
   width: 300px;
   padding: 5px;
   outline: none;
   border: 2px solid;
 }
+
 .add_btn {
   font-weight: bolder;
   font-size: 18px;
