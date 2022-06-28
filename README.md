@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Awesome books: refactor to use JavaScript classes
+> !Awesome Books](https://user-images.githubusercontent.com/90258833/176215300-3f7ba1d2-7665-40a5-84c4-3c226395a689.png)
 
 > Project Description.
 > Use JavaScript classes instead of objects and arrays.
